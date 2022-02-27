@@ -1,0 +1,17 @@
+{
+  "name": "frontend",
+  "version": "0.1.0",
+  "private": true,
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "akiyamn",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "express": "^4.17.3"
+  }
+}
